@@ -1,4 +1,4 @@
-# Nostalgia POST-IT
+# Nostalgia Post-IT - To Do List
 
 A simple, responsive web-based Post-It board and To-Do list application built with HTML, CSS, JavaScript, and jQuery.
 
